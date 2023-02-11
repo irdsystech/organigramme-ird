@@ -1,7 +1,7 @@
 /* Varaibles - config */
 /* SCSS*/
 body {
-  background: #F5EEC9;
+  background: #ffffff;
 }
 
 .content {
@@ -19,6 +19,8 @@ body {
 .org-chart {
   display: block;
   clear: both;
+  margin-left: 0px;
+  margin-right: 0px;
   margin-bottom: 30px;
   position: relative;
   /**
@@ -238,7 +240,7 @@ body {
 }
 
 .org-chart .department.central {
-  background: #F5EEC9;
+  background: #ffffff;
 }
 
 .org-chart .department.central:after {
