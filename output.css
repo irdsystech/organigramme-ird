@@ -19,8 +19,8 @@ body {
 .org-chart {
   display: block;
   clear: both;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-left: 50px;
+  margin-right: 5px;
   margin-bottom: 30px;
   position: relative;
   /**
@@ -319,7 +319,7 @@ ul>li.department.ss>span.sb {
     float: none;
     width: 100%;
     margin-left: 0;
-    background: #F5EEC9;
+    background: #ffffff;
     margin-bottom: 40px;
   }
 
