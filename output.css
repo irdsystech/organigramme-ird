@@ -1,7 +1,7 @@
 /* Varaibles - config */
 /* SCSS*/
 body {
-  background: #ffffff;
+  background: #f2f2f2;
 }
 
 .content {
@@ -78,7 +78,7 @@ body {
 
 .org-chart .lvl-b {
   background: rgb(12, 97, 167);
-  color: #ffffff;
+  color: #f2f2f2;
 }
 
 .org-chart .board {
@@ -319,7 +319,7 @@ ul>li.department.ss>span.sb {
     float: none;
     width: 100%;
     margin-left: 0;
-    background: #ffffff;
+    background: #f2f2f2;
     margin-bottom: 40px;
   }
 
