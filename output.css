@@ -16,6 +16,7 @@ body {
   box-sizing: border-box;
 }
 
+
 .org-chart {
   display: block;
   clear: both;
@@ -240,7 +241,7 @@ body {
 }
 
 .org-chart .department.central {
-  background: #ffffff;
+  background: #f2f2f2;
 }
 
 .org-chart .department.central:after {
